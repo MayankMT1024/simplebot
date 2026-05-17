@@ -1,0 +1,15 @@
+hello:Hi there! How can I help you today?
+hi:Hello! What's on your mind?
+how are you:I'm just a bunch of code, but I'm running great!
+name:I am a simple rule-based bot. I don't have a name.
+c language:C is a powerful and foundational language, perfect for a 1st-year project!
+project:This project is about file I/O and string matching.
+help:You can ask me simple questions. Try 'hello', 'how are you', 'c language', or 'bye'.
+bye:Goodbye! Have a great day.
+exit:Goodbye! See you later.
+default:Sorry, I don't understand that. Please try asking in a different way.
+iitj:This bot is a project from IIT Jodhpur!
+group 63:That's our team! This bot was proudly created by the members of Group 63.
+creator:I was created by Group 63 for their B.Tech first-year project.
+course:This bot was built for the 'Introduction to Computer Science' course.
+project:This is a B.Tech first-year project for the 'Introduction to Computer Science' course at IIT Jodhpur, created by Group 63.
