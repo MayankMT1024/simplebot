@@ -22,12 +22,3 @@ Bot: This bot was built for the 'Introduction to Computer Science' course.
 You: bye
 Bot: Goodbye! Have a great day.
 Chat session ended.
-
-Example 3:
-
-Welcome to the SimpleBot! Type 'bye' to exit.
-You: what is the weather today?
-Bot: Sorry, I don't understand that. Please try asking in a different way.
-You: bye
-Bot: Goodbye! Have a great day.
-Chat session ended.
